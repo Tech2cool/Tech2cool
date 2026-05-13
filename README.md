@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im fullstack app developer and web developer <br>Working with flutter, react, nextjs, typescript, js,node, unity, unreal, etc
+full-stack developer building apps, websites & sometimes games.<br><br>working with flutter, react, next.js, typescript, node.js, unity & unreal.<br>love creating smooth ui, realtime systems & cool ideas that actually work.
 
 
 ## 🌐 Socials:
